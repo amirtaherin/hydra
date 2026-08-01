@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+ae_output/
+ae_quick_results/
+results*/
+llama_cpp_profiler/build/
+llama_cpp_profiler/nlohmann/
+*.gguf
+.venv/
+venv/
