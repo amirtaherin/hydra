@@ -1,0 +1,69 @@
+{
+  "models": [
+    {
+      "name": "Llama-3.2-1B",
+      "hf_path": "meta-llama/Llama-3.2-1B-Instruct",
+      "gguf_path": "bartowski/Llama-3.2-1B-Instruct-GGUF"
+    },
+    {
+      "name": "Qwen2.5-1.5B",
+      "hf_path": "Qwen/Qwen2.5-1.5B-Instruct",
+      "gguf_path": "EShawC/Qwen2.5-1.5B-GGUF"
+    },
+    {
+      "name": "granite-3.3-2B",
+      "hf_path": "ibm-granite/granite-3.3-2b-instruct",
+      "gguf_path": "ibm-granite/granite-3.3-2b-instruct-GGUF"
+    },
+    {
+      "name": "gemma-2B",
+      "hf_path": "google/gemma-2b-it",
+      "gguf_path": "EShawC/gemma-2B-GGUF"
+    },
+    {
+      "name": "Llama-3.2-3B",
+      "hf_path": "meta-llama/Llama-3.2-3B-Instruct",
+      "gguf_path": "bartowski/Llama-3.2-3B-Instruct-GGUF"
+    },
+    {
+      "name": "Qwen2.5-3B",
+      "hf_path": "Qwen/Qwen2.5-3B-Instruct",
+      "gguf_path": "EShawC/Qwen2.5-3B-GGUF"
+    },
+    {
+      "name": "Phi-3.5-mini",
+      "hf_path": "microsoft/Phi-3.5-mini-instruct",
+      "gguf_path": "EShawC/Phi-3.5-mini-GGUF"
+    },
+    {
+      "name": "Qwen2.5-7B",
+      "hf_path": "Qwen/Qwen2.5-7B-Instruct",
+      "gguf_path": "EShawC/Qwen2.5-7B-GGUF"
+    },
+    {
+      "name": "moxin-7B",
+      "hf_path": "moxin-org/moxin-instruct-7b",
+      "gguf_path": "second-state/moxin-instruct-7b-GGUF"
+    },
+    {
+      "name": "gemma-7B",
+      "hf_path": "google/gemma-7b-it",
+      "gguf_path": "EShawC/gemma-7B-GGUF"
+    },
+    {
+      "name": "Ministral-8B",
+      "hf_path": "mistralai/Ministral-8B-Instruct-2410",
+      "gguf_path": "bartowski/Ministral-8B-Instruct-2410-GGUF"
+    },
+    {
+      "name": "Llama-3.1-8B",
+      "hf_path": "meta-llama/Llama-3.1-8B-Instruct",
+      "gguf_path": "EShawC/Llama-3.1-8B-GGUF"
+    },
+    {
+      "name": "granite-3.3-8B",
+      "hf_path": "ibm-granite/granite-3.3-8b-instruct",
+      "gguf_path": "ibm-granite/granite-3.3-8b-instruct-GGUF"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+platform,backend,dtype,model,decode_power_w_mean,itl_ms_mean,mj_per_token_mean,gen_tok_per_s_mean,n_prompts,note
+xavier,hf,torch.bfloat16,Qwen2.5-7B,21.0,187.5,3941.0,5.3,541,
+xavier,llamacpp,Q8_0,Qwen2.5-7B,22.7,103.2,2341.0,9.7,541,
+xavier,llamacpp,Q6_K,Qwen2.5-7B,31.5,90.3,2843.0,11.1,541,
+xavier,llamacpp,Q4_K_M,Qwen2.5-7B,32.7,62.4,2040.0,16.1,541,
+orin,hf,torch.bfloat16,Qwen2.5-7B,39.6,94.3,3731.0,10.6,541,
+orin,llamacpp,Q8_0,Qwen2.5-7B,42.5,58.0,2462.0,17.3,541,
+orin,llamacpp,Q6_K,Qwen2.5-7B,54.8,46.7,2559.0,21.4,541,
+orin,llamacpp,Q4_K_M,Qwen2.5-7B,52.3,35.7,1867.0,28.1,541,
+thor,hf,torch.bfloat16,Qwen2.5-7B,37.8,63.5,2399.0,15.8,541,
+thor,llamacpp,Q8_0,Qwen2.5-7B,51.5,36.2,1864.0,27.7,541,
+thor,llamacpp,Q6_K,Qwen2.5-7B,68.4,29.0,1983.0,34.6,541,
+thor,llamacpp,Q4_K_M,Qwen2.5-7B,65.8,22.7,1493.0,44.2,541,
