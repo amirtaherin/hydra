@@ -1,6 +1,6 @@
 # Hydra — Phase-Aware Workload Characterization of LLM Inference on Edge SoCs
 
-<!-- Badges: DOI badge added after first Zenodo release -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21844843.svg)](https://doi.org/10.5281/zenodo.21844843)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Paper](https://img.shields.io/badge/paper-IISWC%202026-8A2BE2)](https://iiswc.org/iiswc2026/)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Edge--AI-orange)
